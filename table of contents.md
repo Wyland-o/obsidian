@@ -1,1 +1,2 @@
 [[Hiragana]]
+[[Katakana]]
