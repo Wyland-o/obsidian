@@ -1,2 +1,3 @@
 [[Hiragana]]
 [[Katakana]]
+![[campfire.png]]
