@@ -9,6 +9,6 @@
 | <font size=10>h | <font size=10>は | <font size=10>ひ | <font size=10>ふ | <font size=10>へ | <font size=10>ほ |
 | <font size=10>m | <font size=10>ま | <font size=10>み | <font size=10>む | <font size=10>め | <font size=10>も |
 | <font size=10>y | <font size=10>や |                 | <font size=10>ゆ |                 | <font size=10>よ |
-| <font size=10>r | <font size=10>ら | <font size=10>り | <font size=10>る | <font size=10>れ | ろ               |
-| <font size=10>w | わ               |                 |                 |                 | を               |
-| <font size=10>n | ん               |                 |                 |                 |                 |
+| <font size=10>r | <font size=10>ら | <font size=10>り | <font size=10>る | <font size=10>れ | <font size=10>ろ |
+| <font size=10>w | <font size=10>わ |                 |                 |                 | <font size=10>を |
+| <font size=10>n | <font size=10>ん |                 |                 |                 |                 |
